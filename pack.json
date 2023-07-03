@@ -1,0 +1,10 @@
+{
+  "name": "Skylanders Theme",
+  "description": "A nostalgic theme some should recognize.",
+  "author": "StrandedClone01",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
