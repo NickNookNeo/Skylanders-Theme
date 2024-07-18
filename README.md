@@ -1,0 +1,1 @@
+# Shoddily made audio for the Steam Deck's Decky Loader/Audio Loader Plugin using Hans Zimmer's Skylanders theme, I created this for personal use; infact I'm not certainn why I left it up, but if you want it, I don't know if it still works but knock yourself out.
